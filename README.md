@@ -36,18 +36,3 @@ A simulação realizada com dados projetados para um período de 12 meses demons
 * **[Pandas](https://pandas.pydata.org/)**: Manipulação e análise de dados tabulares.
 * **[NumPy](https://numpy.org/)**: Cálculos matemáticos e geração de distribuições estatísticas.
 * **[Matplotlib](https://matplotlib.org/)**: Visualização de dados e geração de gráficos.
-
----
-
-## 📂 Estrutura do Repositório
-
-```text
-/
-├── data/
-│   └── dados_energia_projeto.csv   # Dataset gerado pela simulação (Input/Output)
-├── docs/
-│   └── apresentacao_projeto.pdf    # PDF com a documentação completa
-├── src/
-│   └── analise_energia.py          # Script principal de simulação e gráficos
-├── README.md                       # Documentação do projeto
-└── requirements.txt                # Dependências do projeto
