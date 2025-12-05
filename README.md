@@ -1,5 +1,7 @@
 # ⚡ EcoWork Energy
 
+---
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Context](https://img.shields.io/badge/Global%20Solution-FIAP-green)
