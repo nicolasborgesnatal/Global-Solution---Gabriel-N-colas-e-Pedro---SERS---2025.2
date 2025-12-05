@@ -6,7 +6,6 @@
 
 > **Projeto de análise de dados e simulação energética para otimização de ambientes de trabalho híbridos.**
 
-
 ## 📄 Sobre o Projeto
 
 No contexto do **"Futuro do Trabalho"**, a eficiência energética não é apenas uma questão ambiental, mas estratégica. Este projeto, desenvolvido como parte da **Global Solution**, visa analisar o perfil de consumo de um escritório comercial e simular a implementação de uma matriz energética híbrida (Rede Elétrica + Energia Solar).
@@ -17,6 +16,7 @@ O objetivo é demonstrar como a inteligência de dados pode reduzir custos opera
 * **Opção A (Análise de Dados):** Identificação de padrões de consumo, desperdícios em horários ociosos e sazonalidade (ar-condicionado).
 * **Opção C (Energias Renováveis):** Simulação computacional de um sistema fotovoltaico de 20kWp e seu impacto no balanço energético.
 
+---
 
 ## 📊 Resultados Alcançados
 
@@ -28,6 +28,7 @@ A simulação realizada com dados projetados para um período de 12 meses demons
 | **Custo Anual** | R$ 89.091,00 | R$ 53.577,00 | 💰 **Economia de R$ 35k** |
 | **Emissão CO₂** | 10.2 ton | 6.1 ton | 🌱 **-4 ton de CO₂** |
 
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
