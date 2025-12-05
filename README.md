@@ -6,6 +6,7 @@
 
 > **Projeto de análise de dados e simulação energética para otimização de ambientes de trabalho híbridos.**
 
+
 ## 📄 Sobre o Projeto
 
 No contexto do **"Futuro do Trabalho"**, a eficiência energética não é apenas uma questão ambiental, mas estratégica. Este projeto, desenvolvido como parte da **Global Solution**, visa analisar o perfil de consumo de um escritório comercial e simular a implementação de uma matriz energética híbrida (Rede Elétrica + Energia Solar).
